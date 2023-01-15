@@ -1,35 +1,35 @@
-*{
-    font-family: sans-serif;
-    font-size: larger;
-    background: #33333b;
-}
-
-#LoginScreen{
-    text-align: center;
-    padding-top: 20%;
-}
-
-#dashboard{
-    text-align: left;
-    background: #33333b;
-    padding: 30px 20px;
-    color: whitesmoke;
-}
-
-button{
-    background-color: blueviolet;
-    color: #fff;
-    border: none;
-    padding: 20px 20px 20px 20px;
-    border-radius: 5px;
-}
-
-button:hover{
-    border: 3px solid blueviolet;
-    background: #33333b;
-    transition: all ease-in-out 0.3s;
-}
-
-img{
-    border-radius: 100%;
+*{ 
+    font-family: sans-serif; 
+    font-size: larger; 
+    background: #33333b; 
+} 
+ 
+#LoginScreen{ 
+    text-align: center; 
+    padding-top: 20%; 
+} 
+ 
+#dashboard{ 
+    text-align: left; 
+    background: #33333b; 
+    padding: 30px 20px; 
+    color: whitesmoke; 
+} 
+ 
+button{ 
+    background-color: blueviolet; 
+    color: #fff; 
+    border: none; 
+    padding: 20px 20px 20px 20px; 
+    border-radius: 5px; 
+} 
+ 
+button:hover{ 
+    border: 3px solid blueviolet; 
+    background: #33333b; 
+    transition: all ease-in-out 0.3s; 
+} 
+ 
+img{ 
+    border-radius: 100%; 
 }
